@@ -9,12 +9,26 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@babel/runtime": "^7.21.5",
     "@types/node": "20.1.2",
     "@types/react": "18.2.6",
     "@types/react-dom": "18.2.4",
+    "@types/react-vis": "^1.11.11",
+    "@types/vis": "^4.21.24",
+    "konva": "^9.0.2",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.4",
     "next": "13.4.1",
     "react": "18.2.0",
     "react-dom": "18.2.0",
-    "typescript": "5.0.4"
+    "react-konva": "^18.2.8",
+    "react-vis": "^1.11.12",
+    "react-vis-timeline": "^2.0.3",
+    "typescript": "5.0.4",
+    "use-image": "^1.1.0",
+    "vis": "^4.21.0-EOL",
+    "vis-data": "^7.1.6",
+    "vis-timeline": "^7.7.2",
+    "xss": "^1.0.14"
   }
 }
